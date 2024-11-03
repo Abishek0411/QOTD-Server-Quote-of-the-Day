@@ -62,13 +62,6 @@ If you don’t see the quote:
       quote = "Keep pushing forward! - QOTD\n"
 Replace with your desired message.
 
-### Project Structure
-      ```bash
-      qotd-server/
-      │
-      ├── port1717.py   # The main server script
-      └── README.md        # Project documentation
-
 ### Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
 
